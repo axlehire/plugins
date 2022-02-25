@@ -1,3 +1,6 @@
+## 0.9.5-fixpixel
+* fixes issue that caused the Pixel 6 to not take photos
+
 ## 0.9.4+14
 
 * Restores compatibility with Flutter 2.5 and 2.8.
